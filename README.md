@@ -4,6 +4,8 @@
 - 📧 Contato: vinicius.gmdigital@gmail.com
 - ⚡ Curiosidade: Grande fã de Harry Potter.
 
+##
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGGR&count_private=true&show_icons=true&theme=nord)](https://github.com/ViniciusGGR/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGGR&theme=nord)](https://github.com/ViniciusGGR/github-readme-stats)
 
