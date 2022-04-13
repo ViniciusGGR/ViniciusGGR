@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Vinícius Gabriel.
 
-<!--
-**ViniciusGGR/ViniciusGGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudando JavaScript.
+- 📧 Contato: vinicius.gmdigital@gmail.com
+- ⚡ Curiosidade: Grande fã de Harry Potter.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/ViniciusGGR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGGR&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGGR&layout=compact&langs_count=7&theme=nord"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
