@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinícius Gabriel.
 
-- 📚 Estudando Dart/Flutter.
+- 📚 Estudando Flutter.
 - 📧 Contato: vinicius.gmdigital@gmail.com
 - ⚡ Curiosidade: Grande fã de Harry Potter.
 
